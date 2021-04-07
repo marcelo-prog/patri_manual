@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.clear{
+    clear: both;
+}
+
+header{
+    width:100%;
+    height:150px;
+    background-color: brown;
+}
+header h1{
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+.paradox{
+    display: inline-block;
+    margin-left: 10%;
+    width:25%;
+  
+
+}
+
+.paradox img{
+    width:80%;
+    font-size: 20px;
+}
+
+.paradox h2{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.paradox1{
+    display: inline-block;
+    width:25%;
+    float:right;
+    margin-right: 10%;
+}
+
+.paradox1 img{
+    width:80%;
+    
+
+}
+
+.paradox2{
+    display: inline-block;
+    width:25%;
+    float:right;
+
+}
+
+.paradox2 video{
+    width:80%;
+}
+
+
+
+@media screen and (max-width:1280px){
+	
+.paradox2{
+    
+    width:25%;
+ 
+
+}
+
+.paradox2 video{
+    width:80%;
+}
+
+}
+
+

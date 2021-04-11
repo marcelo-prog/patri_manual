@@ -9,6 +9,7 @@
 }
 
 .topo{
+    padding-top: 30px;
     width: 1280px;
     margin:0 auto;
 }
@@ -22,47 +23,68 @@ header{
     background-color: brown;
 }
 
+.principal{
+    width:100%;
+
+}
+.principal h2{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 50px;
+    
+}
+
 .paradox{
     display: inline-block;
     margin-left: 10%;
     width:300px;
-  
-
 }
 
 .paradox img{
     width:100%;
-    font-size: 20px;
 }
 
 .paradox h2{
-    font-size: 18px;
+    
     margin-top: 20px;
     margin-left: 50px;
 }
 
-.paradox1{
+.runner{
     display: inline-block;
-    width:100px;
+    width:280px;
     float:right;
     margin-right: 10%;
+    margin-left: 100px;
 }
 
-.paradox1 img{
-    width:80%;
+.runner img{
+    width:100%;
     
 
 }
 
-.paradox2{
+.runner h2{
+    font-size: 18px;
+}
+
+.intelbras{
     display: inline-block;
-    width:100px;
+    width:280px;
     float:right;
 
 }
 
-.paradox2 video{
-    width:80%;
+.intelbras img{
+    width:100%;
+}
+
+.vista_48{
+    margin-left: 10%;
+    width:300px
+}
+.vista_48 img{
+    width:100%
 }
 
 

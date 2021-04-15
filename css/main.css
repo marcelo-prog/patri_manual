@@ -1,0 +1,105 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.clear{
+    clear:both;
+}
+
+.inicio{
+    width:100%;
+    height:150px;
+    background-color:rgb(44, 7, 78);
+    padding:20px;
+}
+
+.inicio h1{
+    color:whitesmoke;
+    font-size: 80px;
+    text-align: center;
+    
+}
+
+.menu{
+    
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+    
+
+
+.tatico {
+    width:300px;
+    height:300px;
+    background-color: rgb(44, 7, 78);
+    border-radius: 10px;
+    display:inline-block;
+    margin-left: 115px;
+}
+
+.tatico h2{
+    color:whitesmoke;
+    text-align: center;
+}
+
+.tatico img{
+    width:100%;
+    height:80%;
+}
+
+.tecnica {
+    float:right;
+    
+    width:300px;
+    height:300px;
+    background-color:rgb(44, 7, 78);
+    border-radius: 10px;
+    margin-right: 115px;
+}
+
+.tecnica h2{
+    color:whitesmoke;
+    text-align: center;
+}
+
+.tecnica img{
+    width:100%;
+    height:80%;
+    
+}
+
+.comercial {
+    width:300px;
+    height:300px;
+    background-color:rgb(44, 7, 78);
+    border-radius: 10px;
+    float:right;
+    margin-right: 115px;
+}
+
+.comercial h2{
+    color:whitesmoke;
+    text-align: center;
+}
+
+.comercial img{
+    width:100%;
+    height:80%;
+}
+
+footer{
+    width:100%;
+    height:150px;
+    background-color:rgb(44, 7, 78);
+}
+
+.rodape h3{
+    color:whitesmoke;
+    font-size: 20px;
+    margin-left: 40px;
+    padding:40px;
+
+}

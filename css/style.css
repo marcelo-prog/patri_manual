@@ -39,6 +39,7 @@ header{
     display: inline-block;
     margin-left: 10%;
     width:300px;
+    height:300px;
 }
 
 .paradox img{
@@ -53,14 +54,16 @@ header{
 
 .runner{
     display: inline-block;
-    width:280px;
+    width:300px;
+    height:300px;
     float:right;
     margin-right: 10%;
     margin-left: 100px;
 }
 
 .runner img{
-    width:100%;
+    
+    height:100%;
     
 
 }
@@ -71,7 +74,8 @@ header{
 
 .intelbras{
     display: inline-block;
-    width:280px;
+    width:300px;
+    height:300px;
     float:right;
 
 }
@@ -103,20 +107,58 @@ footer{
 
 }
 
+@media screen and (max-width:1286px){
+    .menu{
+        width:100%;
+        height:1000px;
 
-@media screen and (max-width:1280px){
-	
-.paradox2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    } 
+    .paradox{
+     
+        margin-left: 5%;
+        width:300px;
+        height:300px;
+    }
     
+    
+    .runner{
+        
+        width:300px;
+        height:300px;
+        
+        margin-right: 5%;
+        margin-left: 20px;
+    }
+    
+    
+}   
 
- 
 
+@media screen and (max-width:570px){
+    h1{
+        font-size: 40px;
+    }
+
+    .menu{
+        width:100%;
+        height:1000px;
+
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }  
+    
+}   
+
+	
+
+@media screen and (max-width:460px){
+	h1{
+        font-size: 40px;
+
+    }
 }
 
-.paradox2 video{
-    width:80%;
-}
-
-}
 
 

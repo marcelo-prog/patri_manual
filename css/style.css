@@ -65,17 +65,17 @@ header{
 }
 
 .runner{
-    display: inline-block;
     width:300px;
     height:300px;
     float:right;
+    margin-top:20px;
     margin-right: 10%;
     margin-left: 100px;
     margin-bottom: 20px;
 }
 
 .runner img{
-    
+    width:100%;
     height:100%;
     
 
@@ -86,7 +86,6 @@ header{
 }
 
 .intelbras{
-    display: inline-block;
     width:300px;
     height:300px;
     float:right;
@@ -102,7 +101,7 @@ header{
 .vista_48{
     margin-left: 10%;
     width:300px;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-bottom: 20px;
 }
 
@@ -111,12 +110,13 @@ header{
 }
 
 .viaweb558{
-    display: inline-block;
     width:300px;
     height:300px;
     float:right;
     margin-top:20px;
     margin-bottom: 20px;
+    margin-right: 10%;
+    margin-left: 50px;
 
 }
 

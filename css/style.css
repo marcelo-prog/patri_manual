@@ -37,6 +37,7 @@ header{
 
 .principal{
     width:100%;
+    height:auto;
 
 }
 .principal h2{
@@ -136,6 +137,26 @@ header{
 .E55 img{
     width:100%;
 }
+
+.EVO-PARADOX{
+    width:300px;
+    height:300px;
+ 
+    margin-left: 10%;
+    margin-top:20px;
+    margin-bottom: 100px;
+}
+
+.EVO-PARADOX h2{
+    margin-top:20px;
+
+}
+.EVO-PARADOX img{
+    width:300px;
+    height:300px;
+}
+
+
 
 footer{
     width:100%;

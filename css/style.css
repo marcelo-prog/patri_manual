@@ -156,6 +156,21 @@ header{
     height:300px;
 }
 
+.risco_group{
+    width:300px;
+    height:300px;
+    float:right;
+   
+}
+
+.risco_group h2{
+    margin-top:20px;
+
+}
+.risco_group img{
+    width:300px;
+    height:300px;
+}
 
 
 footer{

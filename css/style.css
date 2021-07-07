@@ -228,7 +228,7 @@ footer{
     } 
     .paradox{
      
-        margin-left: 5%;
+      
         width:300px;
         height:300px;
     }
@@ -240,7 +240,7 @@ footer{
         height:300px;
         
         margin-right: 5%;
-        margin-left: 20px;
+      
     }
 
     .intelbras{
@@ -272,6 +272,8 @@ footer{
     .principal{
         width:100%;
         height:auto;
+        margin-left: 40px;
+       
     
     }
     .principal h2{
@@ -282,11 +284,10 @@ footer{
 
         
     .paradox{
-      
-        position: relative;
-        
+                
         width:300px;
         height:300px;
+        margin:auto;
         
     }
 
@@ -304,7 +305,7 @@ footer{
     .runner{
         width:300px;
         height:300px;
-     
+        margin:auto;
         margin-top:20px;
    
      
@@ -325,7 +326,7 @@ footer{
     .intelbras{
         width:300px;
         height:300px;
-    
+        margin:auto;
         margin-top: 20px;
         margin-bottom: 20px;
 
@@ -339,6 +340,7 @@ footer{
     .vista_48{
      
         width:300px;
+        margin:auto;
         margin-top: 40px;
         margin-bottom: 20px;
     }
@@ -355,7 +357,7 @@ footer{
     .viaweb558{
         width:300px;
         height:300px;
-      
+        margin:auto;
         margin-top:20px;
         margin-bottom: 20px;
      
@@ -370,7 +372,7 @@ footer{
     .E55{
         width:300px;
         height:300px;
-           
+        margin:auto;   
         margin-top:20px;
         margin-bottom: 20px;
     }
@@ -383,7 +385,7 @@ footer{
     .EVO-PARADOX{
         width:300px;
         height:300px;
-      
+        margin:auto;
         margin-top:20px;
         margin-bottom: 100px;
     }
@@ -401,7 +403,7 @@ footer{
     .risco_group{
         width:300px;
         height:300px;
-   
+        margin:auto;
      
     
     }
@@ -420,7 +422,7 @@ footer{
         width:300px;
         height:300px;
         margin-bottom: 40px;
-      
+        margin:auto;
        
     
     }
@@ -435,12 +437,7 @@ footer{
         border-radius: 10%;
     }    
 }
-
-
-    
-}   
-
-	
+  
 
 @media screen and (max-width:460px){
  

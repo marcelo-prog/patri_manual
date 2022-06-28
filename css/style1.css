@@ -1,0 +1,625 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+.clear{
+    clear: both;
+}
+
+.topo{
+    padding-top: 30px;
+    width: 1280px;
+    margin:0 auto;
+}
+
+button{
+  
+    width:60px;
+    display:block;
+}
+h1{
+    font-size: 50px;
+    color:whitesmoke;
+    
+}
+header{
+    width:100%;
+    height:150px;
+    background-color: rgb(44, 7, 78);
+}
+
+.topo a{
+    padding-top: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+    font-style: bold;
+    color:white;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+}
+
+.principal{
+    width:100%;
+    height:auto;
+
+}
+.principal h2{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 50px;
+    
+}
+
+.paradox{
+    display: inline-block;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    width:300px;
+    height:300px;
+    
+}
+
+.paradox img{
+    width:100%;
+    border-radius: 10%;
+}
+
+.paradox h2{
+    
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.runner1{
+    width:300px;
+    height:170px;
+    display: inline-block;
+    margin-top:20px;
+    margin-right: 10%;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.runner1 img{
+    width:100%;
+    height:100%;
+    border-radius: 10%;
+
+}
+
+.runner1 h2{
+    font-size: 18px;
+}
+
+.intelbras{
+    width:300px;
+    height:300px;
+    display: inline-block;
+ 
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.intelbras img{
+    width:100%;
+    border-radius: 10%;
+}
+
+.vista_48{
+    display: inline-block;
+    margin-left: 10%;
+    width:300px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.vista_48 img{
+    width:100%;
+    border-radius: 10%;
+}
+
+.viaweb558{
+    width:300px;
+    height:300px;
+    margin-left: 10%;
+    display: inline-block;
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-right: 10%;
+  
+
+}
+
+.viaweb558 img{
+    width:100%;
+    border-radius: 10%;
+}
+
+.E55{
+    width:300px;
+    height:300px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.E55 img{
+    width:100%;
+    border-radius: 10%;
+}
+
+.EVO-PARADOX{
+    width:300px;
+    height:300px;
+    display:inline-block;
+    margin-left: 10%;
+    margin-top:20px;
+    margin-bottom: 100px;
+}
+
+.EVO-PARADOX h2{
+    margin-top:20px;
+
+}
+.EVO-PARADOX img{
+    width:300px;
+    height:300px;
+    border-radius: 10%;
+}
+
+.risco_group{
+    width:300px;
+    height:300px;
+    display:inline-block;
+    margin-left: 90px;
+   
+}
+
+.risco_group h2{
+    margin-top:20px;
+
+}
+.risco_group img{
+    width:300px;
+    height:300px;
+    border-radius: 10%;
+}
+
+.DSC{
+    width:300px;
+    height:300px;
+    display:inline-block;
+    margin-left:90px;
+   
+}
+
+.DSC h2{
+    margin-top:20px;
+
+}
+.DSC img{
+    width:300px;
+    height:300px;
+    border-radius: 10%;
+}    
+
+
+footer{
+    width:100%;
+    height:150px;
+    background-color:rgb(44, 7, 78);
+}
+
+.rodape h3{
+    color:whitesmoke;
+    font-size: 20px;
+    margin-left: 40px;
+    padding:40px;
+
+}
+
+@media screen and (max-width:1286px){
+
+    .menu{
+        width:100%;
+        height:1000px;
+
+        margin-top: 20px;
+        margin-bottom: 20px;
+    } 
+    .paradox{
+     
+      
+        width:300px;
+        height:300px;
+    }
+    
+    
+    .runner{
+        
+        width:300px;
+        height:300px;
+        
+        margin-right: 5%;
+      
+    }
+
+    .intelbras{
+     
+        width:300px;
+        height:300px;
+      
+        margin-top: 20px;
+        margin-bottom: 20px;
+    
+    }
+    
+    
+}   
+
+
+@media screen and (max-width:570px){
+   
+    
+    
+    h1{
+        font-size: 40px;
+        margin-left: 20px;
+
+    }
+
+ 
+
+    .principal{
+        width:100%;
+        height:auto;
+        margin-left: 40px;
+       
+    
+    }
+    .principal h2{
+        font-size: 18px;
+     
+        
+    }
+
+        
+    .paradox{
+                
+        width:300px;
+        height:300px;
+        margin:auto;
+        
+    }
+
+    .paradox img{
+        width:100%;
+        border-radius: 10%;
+    }
+
+    .paradox h2{
+        
+        margin-top: 20px;
+    
+    }
+
+    .runner{
+        width:300px;
+        height:300px;
+        margin:auto;
+        margin-top:20px;
+   
+     
+        margin-bottom: 20px;
+    }
+
+    .runner img{
+        width:100%;
+        height:100%;
+        border-radius: 10%;
+
+    }
+
+    .runner h2{
+        font-size: 18px;
+    }
+
+    .intelbras{
+        width:300px;
+        height:300px;
+        margin:auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+
+    .intelbras img{
+        width:100%;
+        border-radius: 10%;
+    }
+
+    .vista_48{
+     
+        width:300px;
+        margin:auto;
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+
+    .vista_48 img{
+        width:100%;
+        border-radius: 10%;
+    }
+
+    .vista_48 h2{
+        font-size: 18px;
+    }
+
+    .viaweb558{
+        width:300px;
+        height:300px;
+        margin:auto;
+        margin-top:20px;
+        margin-bottom: 20px;
+     
+
+    }
+
+    .viaweb558 img{
+        width:100%;
+        border-radius: 10%;
+    }
+
+    .E55{
+        width:300px;
+        height:300px;
+        margin:auto;   
+        margin-top:20px;
+        margin-bottom: 20px;
+    }
+
+    .E55 img{
+        width:100%;
+        border-radius: 10%;
+    }
+
+    .EVO-PARADOX{
+        width:300px;
+        height:300px;
+        margin:auto;
+        margin-top:20px;
+        margin-bottom: 100px;
+    }
+
+    .EVO-PARADOX h2{
+        margin-top:20px;
+
+    }
+    .EVO-PARADOX img{
+        width:300px;
+        height:300px;
+        border-radius: 10%;
+    }
+
+    .risco_group{
+        width:300px;
+        height:300px;
+        margin:auto;
+     
+    
+    }
+
+    .risco_group h2{
+        margin-top:20px;
+
+    }
+    .risco_group img{
+        width:300px;
+        height:300px;
+        border-radius: 10%;
+    }
+
+    .DSC{
+        width:300px;
+        height:300px;
+        margin-bottom: 40px;
+        margin:auto;
+       
+    
+    }
+
+    .DSC h2{
+        margin-top:20px;
+
+    }
+    .DSC img{
+        width:300px;
+        height:300px;
+        border-radius: 10%;
+    }    
+}
+  
+
+@media screen and (max-width:460px){
+ 
+
+	h1{
+        font-size: 30px;
+
+
+    }
+
+    .principal{
+        width:100%;
+        height:auto;
+    
+    }
+    .principal h2{
+        font-size: 18px;
+     
+        
+    }
+
+        
+    .paradox{
+      
+        position: relative;
+        
+        width:300px;
+        height:300px;
+        
+    }
+
+    .paradox img{
+        width:100%;
+        border-radius: 10%;
+    }
+
+    .paradox h2{
+        
+        margin-top: 20px;
+    
+    }
+
+    .runner{
+        width:300px;
+        height:300px;
+     
+        margin-top:20px;
+   
+     
+        margin-bottom: 20px;
+    }
+
+    .runner img{
+        width:100%;
+        height:100%;
+        border-radius: 10%;
+
+    }
+
+    .runner h2{
+        font-size: 18px;
+    }
+
+    .intelbras{
+        width:300px;
+        height:300px;
+    
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+
+    .intelbras img{
+        width:100%;
+        border-radius: 10%;
+    }
+
+    .vista_48{
+     
+        width:300px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+
+    .vista_48 img{
+        width:100%;
+        border-radius: 10%;
+    }
+
+    .vista_48 h2{
+        font-size: 18px;
+    }
+
+    .viaweb558{
+        width:300px;
+        height:300px;
+      
+        margin-top:20px;
+        margin-bottom: 20px;
+     
+
+    }
+
+    .viaweb558 img{
+        width:100%;
+        border-radius: 10%;
+    }
+
+    .E55{
+        width:300px;
+        height:300px;
+           
+        margin-top:20px;
+        margin-bottom: 20px;
+    }
+
+    .E55 img{
+        width:100%;
+        border-radius: 10%;
+    }
+
+    .EVO-PARADOX{
+        width:300px;
+        height:300px;
+      
+        margin-top:20px;
+        margin-bottom: 100px;
+    }
+
+    .EVO-PARADOX h2{
+        margin-top:20px;
+
+    }
+    .EVO-PARADOX img{
+        width:300px;
+        height:300px;
+        border-radius: 10%;
+    }
+
+    .risco_group{
+        width:300px;
+        height:300px;
+   
+     
+    
+    }
+
+    .risco_group h2{
+        margin-top:20px;
+
+    }
+    .risco_group img{
+        width:300px;
+        height:300px;
+        border-radius: 10%;
+    }
+
+    .DSC{
+        width:300px;
+        height:300px;
+        margin-bottom: 40px;
+      
+       
+    
+    }
+
+    .DSC h2{
+        margin-top:20px;
+
+    }
+    .DSC img{
+        width:250px;
+        height:auto;
+        border-radius: 10%;
+    }    
+}
+
+
+

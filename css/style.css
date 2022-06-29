@@ -18,7 +18,7 @@
 button{
   
     width:60px;
-    display:block;
+    display:inline-block;
 }
 h1{
     font-size: 50px;

@@ -55,6 +55,7 @@ header{
 
 .paradox{
     display: inline-block;
+    margin-top: 80px;
     margin-left: 10%;
     margin-bottom: 20px;
     width:300px;
@@ -294,6 +295,7 @@ footer{
         width:300px;
         height:300px;
         margin:auto;
+        margin-top: 80px;
         
     }
 
@@ -312,10 +314,10 @@ footer{
         width:300px;
         height:170px;
         margin:auto;
-        margin-top:20px;
+       
    
      
-        margin-bottom: 20px;
+        margin-bottom: 100px;
     }
 
     .runner1 img{
@@ -334,7 +336,7 @@ footer{
         height:300px;
         margin:auto;
         margin-top: 20px;
-        margin-bottom: 20px;
+        margin-bottom: 40px;
 
     }
 
@@ -347,7 +349,7 @@ footer{
      
         width:300px;
         margin:auto;
-        margin-top: 40px;
+        margin-top: 20px;
         margin-bottom: 20px;
     }
 
@@ -524,7 +526,7 @@ footer{
     .vista_48{
      
         width:300px;
-        margin-top: 40px;
+        margin-top: 20px;
         margin-bottom: 20px;
     }
 

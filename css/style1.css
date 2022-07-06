@@ -496,7 +496,7 @@ footer{
 
     .paradox h2{
         
-        margin-top: 10px;
+        margin-top: 20px;
     
     }
 
@@ -525,7 +525,7 @@ footer{
         width:300px;
         height:150px;
     
-        margin-top: 40px;
+       
         margin-bottom: 20px;
 
     }
@@ -566,73 +566,7 @@ footer{
         border-radius: 10%;
     }
 
-    .E55{
-        width:300px;
-        height:150px;
-           
-        margin-top:20px;
-        margin-bottom: 20px;
-    }
 
-    .E55 img{
-        width:100%;
-        border-radius: 10%;
-    }
-
-    .EVO-PARADOX{
-        width:150px;
-        height:150px;
-      
-        margin-top:20px;
-        margin-bottom: 100px;
-    }
-
-    .EVO-PARADOX h2{
-        margin-top:20px;
-
-    }
-    .EVO-PARADOX img{
-        width:150px;
-        height:150px;
-        border-radius: 10%;
-    }
-
-    .risco_group{
-        width:150px;
-        height:150px;
-   
-     
-    
-    }
-
-    .risco_group h2{
-        margin-top:20px;
-
-    }
-    .risco_group img{
-        width:300px;
-        height:300px;
-        border-radius: 10%;
-    }
-
-    .DSC{
-        width:300px;
-        height:300px;
-        margin-bottom: 40px;
-      
-       
-    
-    }
-
-    .DSC h2{
-        margin-top:20px;
-
-    }
-    .DSC img{
-        width:250px;
-        height:auto;
-        border-radius: 10%;
-    }    
 }
 
 

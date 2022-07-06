@@ -19,10 +19,14 @@ button{
   
     width:60px;
     display:block;
+    margin-left: 25px;
+    margin-top: 15px;
 }
 h1{
     font-size: 50px;
     color:whitesmoke;
+    margin-left: 10px;
+
     
 }
 header{
@@ -480,8 +484,8 @@ footer{
       
         position: relative;
         
-        width:150px;
-        height:150px;
+        width:200px;
+        height:200px;
         
     }
 
@@ -497,8 +501,8 @@ footer{
     }
 
     .runner1{
-        width:300px;
-        height:170px;
+        width:200px;
+        height:110px;
      
         margin-top:20px;
    
@@ -518,8 +522,8 @@ footer{
     }
 
     .intelbras{
-        width:300px;
-        height:300px;
+        width:150px;
+        height:150px;
     
         margin-top: 40px;
         margin-bottom: 20px;
@@ -533,7 +537,7 @@ footer{
 
     .vista_48{
      
-        width:300px;
+        width:150px;
         margin-top: 20px;
         margin-bottom: 20px;
     }
@@ -548,8 +552,8 @@ footer{
     }
 
     .viaweb558{
-        width:300px;
-        height:300px;
+        width:150px;
+        height:150px;
       
         margin-top:20px;
         margin-bottom: 20px;
@@ -563,8 +567,8 @@ footer{
     }
 
     .E55{
-        width:300px;
-        height:300px;
+        width:150px;
+        height:150px;
            
         margin-top:20px;
         margin-bottom: 20px;
@@ -576,8 +580,8 @@ footer{
     }
 
     .EVO-PARADOX{
-        width:300px;
-        height:300px;
+        width:150px;
+        height:150px;
       
         margin-top:20px;
         margin-bottom: 100px;
@@ -588,14 +592,14 @@ footer{
 
     }
     .EVO-PARADOX img{
-        width:300px;
-        height:300px;
+        width:150px;
+        height:150px;
         border-radius: 10%;
     }
 
     .risco_group{
-        width:300px;
-        height:300px;
+        width:150px;
+        height:150px;
    
      
     

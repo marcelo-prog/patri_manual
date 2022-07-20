@@ -201,6 +201,7 @@ footer{
 
 @media screen and (max-width:570px){
     .inicio h1{
+        margin-top: -5px;
         font-size: 30px;
     }
 
@@ -261,6 +262,7 @@ footer{
 @media screen and (max-width:460px){
 	.inicio h1{
         font-size: 30px;
+        margin-top: -5px;
 
 	
 	

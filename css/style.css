@@ -46,6 +46,13 @@ header{
     height:auto;
 
 }
+
+.principal1{
+    width:100%;
+    height:auto;
+   
+
+}
 .principal h2{
     font-size: 18px;
     margin-top: 20px;
@@ -206,7 +213,25 @@ header{
     width:300px;
     height:300px;
     border-radius: 10%;
-}    
+} 
+
+aside{
+ 
+
+
+}
+
+.cerca1 {
+   
+    width: auto;
+    height: auto;
+}
+
+.cerca1 img{
+    width: ;
+    height: auto;
+
+}
 
 
 footer{
@@ -256,6 +281,17 @@ footer{
       
         margin-top: 20px;
         margin-bottom: 20px;
+    
+    }
+
+    .cerca{
+        width:100%;
+       
+    }
+
+    .cerca1 img{
+        width: 300px;
+        height: auto;
     
     }
     
@@ -441,7 +477,18 @@ footer{
         width:300px;
         height:300px;
         border-radius: 10%;
-    }    
+    }  
+    
+    .cerca{
+        width:550px;
+      
+    }
+
+    .cerca1 img{
+        width: 100%;
+        height: auto;
+    
+    }
 }
   
 
